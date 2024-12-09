@@ -51,6 +51,7 @@ async function seedFoods() {
 seedFoods();
 
 
+// Extra comment to trigger workflow
 
 app.get("/", async (req, res) => {
   try {
